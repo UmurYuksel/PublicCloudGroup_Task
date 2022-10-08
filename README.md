@@ -4,8 +4,7 @@ This readme includes quick installation info and technical details for better us
 
 1) Project Installation:
 
-  - Important: I didn't want to put the secret.json file into my repository for security reasons. 
-  - Please put the **secret.json** into **publiccloudgroup_api/Constants folder**.  The Api will read it and set it to its environment. Also, since this is a public repository, I didn't want to use User-Secrets either.
+  - **Important**: I didn't want to put the secret.json file into my repository for security reasons. Please put the **secret.json** into **publiccloudgroup_api/Constants folder**.  The Api will read it and set it to its environment. Also, since this is a public repository, I didn't want to use User-Secrets either.
 
 2) Technical Details:
 
