@@ -8,7 +8,10 @@ Important installation info and technical details for better user experience.
 
 2) Technical Details:
 
-  -This project was built in Visual Studio 2022 with .Net 6 Framework and React v18.  Net Api uses Swagger for documentation. There are 3rd part libraries that I use in both React App and .Net Api.
+  - Fronted: React V18
+  - Backend: .Net 6 Web Api
+  
+  -There are 3rd part libraries that I use in both React App and .Net Api.
     
     3rd part React libraries:  
       -Redux 
