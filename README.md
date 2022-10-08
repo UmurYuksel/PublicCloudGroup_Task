@@ -36,13 +36,13 @@ Please see list of functions of the API I have been requested to develop:
 
 The API has the following functionalities;
 
-  - Ability to fetch the information from Google Cloud Services about virtual machines via the API when fetch request is sent. 
-  - Change Virtual Machine Statuses. Examples include ; Start, Stop, Suspend, Resume by sending Virtual Machine info to the API.
+  -Ability to fetch the information from Google Cloud Services about virtual machines via the API when fetch request is sent. 
+  -Change Virtual Machine Statuses. Examples include ; Start, Stop, Suspend, Resume by sending Virtual Machine info to the API.
 
 This allows for the following; 
 
   -Not having to manually get the virtual machine list from Google Cloud platfrom from the Compute Engine Dashboard. 
-  - Not having to change machine statuses manually from the dashboard, eg; starting it, stopping it, suspending it, resuming it. 
+  -Not having to change machine statuses manually from the dashboard, eg; starting it, stopping it, suspending it, resuming it. 
 
 Acceptance Criteria includes:
 
