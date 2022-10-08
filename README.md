@@ -1,6 +1,6 @@
 # PublicCloudGroup - Full Stack App Task
 
-This readme includes quick installation info and technical details for better user experience.
+Important installation info and technical details for better user experience.
 
 1) Project Installation:
 
