@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qlPO0eiFbCmh+pdAu0DTTS7vND7KRQE5eVV7UgmLQUMhd90N1ghz3Xc+juDMlHA/47BNYU3s/mA9qQXg9ohj/g==",
+  "dgSpecHash": "oo+KPsaiXM4XVltm8d9wEGA6+OLyvB45muoFemca3Y0Xk+/jstVQ78luB2iWlGyzsBJ+8J/Ht0+OtarMJP6ujQ==",
   "success": true,
-  "projectFilePath": "D:\\publiccloudgroup\\publiccloudgroup_api\\publiccloudgroup_api.csproj",
+  "projectFilePath": "D:\\public_group\\PublicCloudGroup_Task\\publiccloudgroup_api\\publiccloudgroup_api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\umur\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\umur\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

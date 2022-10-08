@@ -2903,11 +2903,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\publiccloudgroup\\publiccloudgroup_api\\publiccloudgroup_api.csproj",
+      "projectUniqueName": "D:\\public_group\\PublicCloudGroup_Task\\publiccloudgroup_api\\publiccloudgroup_api.csproj",
       "projectName": "publiccloudgroup_api",
-      "projectPath": "D:\\publiccloudgroup\\publiccloudgroup_api\\publiccloudgroup_api.csproj",
+      "projectPath": "D:\\public_group\\PublicCloudGroup_Task\\publiccloudgroup_api\\publiccloudgroup_api.csproj",
       "packagesPath": "C:\\Users\\umur\\.nuget\\packages\\",
-      "outputPath": "D:\\publiccloudgroup\\publiccloudgroup_api\\obj\\",
+      "outputPath": "D:\\public_group\\PublicCloudGroup_Task\\publiccloudgroup_api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
