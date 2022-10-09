@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "publiccloudgroup_api", "publiccloudgroup_api.csproj", "{16769251-8864-4A1A-8D52-963B47405669}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "publiccloudgroup_api", "publiccloudgroup_api.csproj", "{16769251-8864-4A1A-8D52-963B47405669}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "publiccloudgroup_ap.tests", "..\publiccloudgroup_ap.tests\publiccloudgroup_ap.tests.csproj", "{D6B9A725-0BCD-4F2C-ADEF-23F921309E0B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{16769251-8864-4A1A-8D52-963B47405669}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16769251-8864-4A1A-8D52-963B47405669}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16769251-8864-4A1A-8D52-963B47405669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B9A725-0BCD-4F2C-ADEF-23F921309E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B9A725-0BCD-4F2C-ADEF-23F921309E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B9A725-0BCD-4F2C-ADEF-23F921309E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B9A725-0BCD-4F2C-ADEF-23F921309E0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
