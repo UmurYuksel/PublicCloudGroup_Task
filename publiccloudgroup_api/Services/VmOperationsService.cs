@@ -77,7 +77,7 @@ namespace publiccloudgroup_api.Services
 
                 StopInstanceRequest stopRequestObject = _mapper.Map<StopInstanceRequest>(requestModel); //Auto-Mapping.
                 
-                stopRequestObject.Project = _config["ProjectId"]; //User-Secrets.
+                stopRequestObject.Project = _config["ProjectId"]; 
 
                 var operation = await client.StopAsync(stopRequestObject);
 
@@ -103,7 +103,7 @@ namespace publiccloudgroup_api.Services
 
                 SuspendInstanceRequest suspendRequest = _mapper.Map<SuspendInstanceRequest>(requestModel); //Auto-Mapping.
 
-                suspendRequest.Project = _config["ProjectId"]; //User-Secrets.
+                suspendRequest.Project = _config["ProjectId"]; 
 
                 var operation = await client.SuspendAsync(suspendRequest);
 
@@ -129,8 +129,8 @@ namespace publiccloudgroup_api.Services
 
                 ResumeInstanceRequest resumeRequest = _mapper.Map<ResumeInstanceRequest>(requestModel); //Auto Mapping.
 
-                resumeRequest.Project = _config["ProjectId"]; //User-Secrets.
-
+                resumeRequest.Project = _config["ProjectId"]; 
+                
                 var operation = await client.ResumeAsync(resumeRequest);
 
                 var result = await operation.PollUntilCompletedAsync();

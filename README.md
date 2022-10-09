@@ -1,16 +1,17 @@
 # PublicCloudGroup - Full Stack App Task
 
-This readme includes quick installation info and technical details for better user experience.
+Important installation info and technical details for better user experience.
 
 1) Project Installation:
 
-  - **Important**: I didn't want to put the secret.json file into my repository for security reasons. Please put the **secret.json** into **publiccloudgroup_api/Constants folder**.  The Api will read it and set it to its environment. Also, since this is a public repository, I didn't want to use User-Secrets either.
+  - **Important**: I didn't want to put the secret.json file into my repository for security reasons. Please put the **secret.json** into **publiccloudgroup_api/Constants folder**.  The Api will read it and set it to its environment.
 
 2) Technical Details:
 
-  This project was built in Visual Studio 2022 with .Net 6 Framework and React v18.
-  Api uses Swagger for documentation, demonstration and test purposes.
-  There are 3rd part libraries that I use in both React App and .Net Api.
+  - Fronted: React V18
+  - Backend: .Net 6 Web Api
+  
+  -There are 3rd part libraries that I use in both React App and .Net Api.
     
     3rd part React libraries:  
       -Redux 
